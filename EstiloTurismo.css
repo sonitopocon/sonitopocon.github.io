@@ -1,0 +1,61 @@
+body {
+    background-color: #80bca3;
+}
+h1 {
+    color: #f6f7bd;
+    font-family: Cambria, Cochin;
+    font-size: xxx-large;
+    display: grid;
+    justify-content: center;
+}
+header {
+  background-color: #000000;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+    text-decoration: underline;
+    color: #f6f7bd;
+}
+  
+    
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+main {
+    padding-bottom: 63px;
+}
+
+.footer-content {
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 93px;
+    
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+h2 {
+    font-size: xx-large;
+}
